@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>9b541b1a-ebb4-4314-bc15-ef3c8db072dc</ProjectGuid>
+    <ProjectGuid>{3147E753-EEDB-48B6-A4E8-23AE0EF6D0E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Proxy___Math</RootNamespace>
-    <AssemblyName>Proxy___Math</AssemblyName>
+    <AssemblyName>Proxy - Math</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
