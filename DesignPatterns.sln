@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton - Load Balancer", "Singleton - Load Balancer\Singleton - Load Balancer.csproj", "{500B4497-3847-4107-A425-CDB527254C9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory Method\Factory Method.csproj", "{FE13530E-5975-49E9-A92A-0FEF740238BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method - Documents", "Factory Method - Documents\Factory Method - Documents.csproj", "{C11EFF03-AF88-40E6-B139-562BB944CD20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +571,26 @@ Global
 		{500B4497-3847-4107-A425-CDB527254C9B}.Release|ARM.ActiveCfg = Release|Any CPU
 		{500B4497-3847-4107-A425-CDB527254C9B}.Release|x64.ActiveCfg = Release|Any CPU
 		{500B4497-3847-4107-A425-CDB527254C9B}.Release|x86.ActiveCfg = Release|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Release|x64.ActiveCfg = Release|Any CPU
+		{FE13530E-5975-49E9-A92A-0FEF740238BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Release|x64.ActiveCfg = Release|Any CPU
+		{C11EFF03-AF88-40E6-B139-562BB944CD20}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
