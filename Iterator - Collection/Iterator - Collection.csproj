@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>8c6a6954-24f2-440d-98e8-d8eacc209d32</ProjectGuid>
+    <ProjectGuid>{43E59D15-9B29-438D-BA03-95F6A1E3EBB7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Iterator___Collection</RootNamespace>
-    <AssemblyName>Iterator___Collection</AssemblyName>
+    <AssemblyName>Iterator - Collection</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
